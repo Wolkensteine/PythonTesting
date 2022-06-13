@@ -1,4 +1,5 @@
 #! /usr/bin/env python3
+# all those imports following must be installed on your system
 import cv2
 import numpy as np
 import pyautogui
